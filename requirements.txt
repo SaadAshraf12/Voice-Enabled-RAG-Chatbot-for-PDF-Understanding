@@ -1,0 +1,11 @@
+streamlit
+requests
+pygame
+sounddevice
+scipy
+python-dotenv
+deepgram-sdk
+langchain
+PyMuPDF
+faiss-cpu
+openai
